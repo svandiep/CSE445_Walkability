@@ -15,10 +15,10 @@ namespace Walkability
     // NOTE: In order to launch WCF Test Client for testing this service, please select Service1.svc or Service1.svc.cs at the Solution Explorer and start debugging.
     public class Service1 : IService1
     {
-        string AirKey = "c19586bdfc60d82efbe0695fdbbe391918eb15a9"; //Air Quality Index API key
-        string OPWKey = "1da77cde459c6b0cbe117b12f2e16c15"; //Open Weather API key
-        string ZipKey = "CpUwTRwItjAPr4Q0YDPXvoLiBIMFvpgwJ94rSzmeFwEccZaaKTtTrpR3yCXd0uqV"; //Zip code API key
-        string RfKey = "50f77ba62e30971ff5695f68ee2bd1bd"; //Red Fin API key
+        string AirKey = " "; //Air Quality Index API key
+        string OPWKey = " "; //Open Weather API key
+        string ZipKey = " "; //Zip code API key
+        string RfKey = " "; //Red Fin API key
 
         public int WalkZip(string zip)
         {
