@@ -1,0 +1,11 @@
+C:\Users\Scott\source\repos\Walkability\Walkability\bin\Walkability.dll.config
+C:\Users\Scott\source\repos\Walkability\Walkability\bin\Walkability.dll
+C:\Users\Scott\source\repos\Walkability\Walkability\bin\Walkability.pdb
+C:\Users\Scott\source\repos\Walkability\Walkability\bin\Newtonsoft.Json.dll
+C:\Users\Scott\source\repos\Walkability\Walkability\bin\Newtonsoft.Json.pdb
+C:\Users\Scott\source\repos\Walkability\Walkability\bin\Newtonsoft.Json.xml
+C:\Users\Scott\source\repos\Walkability\Walkability\obj\Debug\Walkability.csprojAssemblyReference.cache
+C:\Users\Scott\source\repos\Walkability\Walkability\obj\Debug\Walkability.csproj.CoreCompileInputs.cache
+C:\Users\Scott\source\repos\Walkability\Walkability\obj\Debug\Walkability.csproj.CopyComplete
+C:\Users\Scott\source\repos\Walkability\Walkability\obj\Debug\Walkability.dll
+C:\Users\Scott\source\repos\Walkability\Walkability\obj\Debug\Walkability.pdb
